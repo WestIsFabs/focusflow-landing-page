@@ -1,0 +1,9 @@
+# VS Code settings
+.vscode/
+
+# Workspace file
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
