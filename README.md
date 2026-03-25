@@ -1,53 +1,97 @@
-# FocusFlow – Conversion Landing Page
+# 🚀 FocusFlow – Conversion Landing Page
 
 A modern, responsive landing page designed to help users overcome overwhelm and improve productivity. Build with HTML, CSS, and JavaScript.
 
-## 🚀 Live Demo
-[FocusFlow](https://wilmien-dev.github.io/focusflow-landing-page/)
+💡 “You’re not lazy. You’re overwhelmed.”  
+A landing page designed to convert attention into action.
 
-## Features
-- Responsive layout (mobile + desktop)
-- Mobile navigation menu
-- Toast notification (UX feedback)
-- Smooth scrolling navigation
-- Pricing toggle (monthly/yearly)
-- Email form validation (Sign-up)
-- Clean UI based on modern SaaS design patterns
+🔗 **Live Demo:**  
+https://wilmien-dev.github.io/focusflow-landing-page/
+
+---
+
+## ✨ Overview
+FocusFlow is a frontend project focused on building clean, user-friendly interfaces with meaningful interactions.  
+It demonstrates the ability to translate UI concepts into a polished, responsive web experience.
+
+---
+
+## 🧩 Features
+
+- 📱 **Responsive Design**  
+  Fully optimized for mobile and desktop devices
+
+- 📊 **Pricing Toggle (Monthly / Yearly)**  
+  Interactive pricing switch with dynamic UI updates
+
+- 📩 **Email Sign-up Form with Validation**  
+  Client-side validation with clear user feedback
+
+- 🔔 **Toast Notifications**  
+  Real-time feedback for improved user experience
+
+- 🍔 **Mobile Navigation Menu**  
+  Smooth, accessible hamburger menu interaction
+
+- 🔗 **Smooth Scrolling Navigation**  
+  Enhances usability and flow across sections
+
+- 🎨 **Modern UI Design**  
+  Clean layout inspired by SaaS landing page patterns
+
+---
 
 ## 🛠 Tech Stack
-- HTML5
-- CSS3 (Flexbox + Grid)
-- JavaScript (Vanilla)
+
+- **HTML5** – Semantic structure  
+- **CSS3** – Flexbox & Grid for layout  
+- **JavaScript (Vanilla)** – Interactivity and logic  
+
+---
 
 ## 📸 Screenshots
 ![Header and Hero section](screenshots/image.png)
 ![Pricing toggle Monthly](screenshots/image-1.png)
 ![Pricing toggle Yearly](screenshots/image-2.png)
 ![Email/Sign-up form](screenshots/image-5.png)
-![Email/Sign-up form validation & Toast notification success feedback](screenshots/image-6.png)
-![Mobile Navigation Hamburger Menu](screenshots/image-4.png)
-![Mobile Navigation Hamburger Menu Open](screenshots/image-7.png)
+![Validation & Toast Feedback](screenshots/image-6.png)
+![Mobile Navigation Menu](screenshots/image-4.png)
+![Mobile Navigation Open](screenshots/image-7.png)
 ![Footer](screenshots/image-3.png)
 
-## 🎯 What This Demonstrates
-- Ability to convert design concepts into clean UI
-- Debugging and fixing layout/interaction issues
-- Writing structured, maintainable frontend code
+---
+
+## 🎯 What This Project Demonstrates
+
+- Ability to build **responsive, production-style UI**
+- Writing **clean, structured, maintainable code**
+- Implementing **interactive frontend features**
+- Focus on **user experience and feedback**
+- Translating design ideas into functional interfaces
+
+---
 
 ## 🧠 Approach
-- Broke UI into reusable components
-- Focused on user feedback (toasts, interactions)
-- Structured code for maintainability
+
+- Broke the UI into logical, reusable sections
+- Focused on **user interaction and feedback**
+- Ensured responsive behaviour across devices
+- Prioritized readability and maintainability in code structure
+
+---
 
 ## 📂 Project Structure
-The project follows a simple and organized structure, separating content, styling, and functionality for clarity and maintainability.
-index.html – Defines the layout and structure of the landing page
-styles.css – Handles all styling, layout, and responsive design
-app.js – Adds interactivity and user experience features
-assets/images/ – Stores all images and visual assets
-README.md – Project documentation and overview
-.gitignore – Excludes unnecessary files from version control
+FocusFlow/
+│
+├── index.html # Page structure
+├── styles.css # Styling and layout
+├── app.js # Interactivity and logic
+├── screenshots/ # Project screenshots
+└── README.md # Documentation
+
+---
 
 ## 👤 Author
-Wilmien Scheepers
 
+**Wilmien Scheepers**  
+Frontend Developer
