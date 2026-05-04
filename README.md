@@ -115,3 +115,13 @@ FocusFlow/
 
 **Wilmien Scheepers**  
 Web Frontend Developer
+
+...
+
+## License
+
+© 2026 Wilmien Scheepers. All rights reserved.
+
+This project is shared publicly for portfolio review only. The code and design may not be copied, reused, or redistributed without permission.
+
+...
