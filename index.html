@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>FocusFlow – Productivity App</title>
-  <meta
-    name="description"
-    content="FocusFlow helps you plan your day, track tasks, and stay consistent — without overwhelm."
-  />
-  <link rel="stylesheet" href="styles.css" />
+  <meta name="description" content="FocusFlow helps you plan your day, track tasks, and stay consistent — without overwhelm.">
+  <link rel="stylesheet" href="styles.css">
 </head>
 
 <body id="top">
@@ -17,7 +14,7 @@
   <header class="site-header" id="siteHeader">
     <div class="container header-inner">
       <a class="brand" href="#top" aria-label="FocusFlow home">
-        <img src="assets/images/FocusFlow Logo.png" alt="FocusFlow logo" class="logo" />
+        <img src="assets/images/FocusFlowLogo.png" alt="FocusFlow logo" class="logo">
         <span class="brand-name"></span>
       </a>
 
@@ -206,16 +203,15 @@
           <p>Start free. Upgrade when you’re ready.</p>
         </header>
 
-        <div class="toggle-row" aria-label="Billing frequency toggle">
+        <div class="toggle-row" role="group" aria-label="Billing frequency toggle">
           <span class="toggle-label">Monthly</span>
-          <button
-            class="toggle"
-            id="billingToggle"
-            type="button"
-            role="switch"
-            aria-checked="false"
-            aria-label="Toggle yearly billing"
-          >
+          <button 
+            class="toggle" 
+            id="billingToggle" 
+            type="button" 
+            role="switch" 
+            aria-checked="false" 
+            aria-label="Toggle yearly billing">
             <span class="toggle-knob" aria-hidden="true"></span>
           </button>
           <span class="toggle-label">
@@ -341,14 +337,7 @@
 
           <form class="signup-form" id="signupForm" novalidate>
             <label class="sr-only" for="email">Email</label>
-            <input
-              type="email"
-              id="email"
-              name="email"
-              placeholder="you@example.com"
-              autocomplete="email"
-              required
-            />
+            <input type="email" id="email" name="email" placeholder="you@example.com" autocomplete="email" required>
             <button class="btn btn-primary" type="submit">Start Free Trial</button>
             <p class="form-hint">Free for 7 days • No credit card required</p>
           </form>
