@@ -62,7 +62,7 @@ Pricing toggle Yearly
 Email/Sign-up form
 ![Email/Sign-up form](screenshots/image-5.png)
 
-Validation & Toast Feedbback
+Validation & Toast Feedback
 ![Validation & Toast Feedback](screenshots/image-6.png)
 
 Mobile Navigation Menu
