@@ -6,8 +6,8 @@ A modern, responsive landing page designed to help users overcome being overwhel
 A landing page designed to convert attention into action.
 
 🔗 **Live Demo:**  
-https://wilmien-dev.github.io/focusflow-landing-page/
-
+https://tryfocusflow.netlify.app/ 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fea893c3-cc01-45ed-9b90-6b25ef8e1e15/deploy-status)](https://app.netlify.com/projects/tryfocusflow/deploys)
 ---
 
 ## ✨ Overview
