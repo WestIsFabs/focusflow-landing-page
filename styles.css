@@ -319,14 +319,20 @@ a {
 
 .hero {
   background: linear-gradient(to bottom, #f9fafb, #ffffff);
-  padding: rem 0 rem; 
+  padding: rem 0 rem;
+  overflow-x: hidden;
 }
 
 .hero-grid {
   display: grid;
-  grid-template-columns: 1.1fr 1fr;
+  grid-template-columns: 1fr;
   gap: 5rem;
   align-items: center;
+}
+
+.task-card {
+  max-width: 100%;
+  width: 100%;
 }
 
 .hero-title {
@@ -372,6 +378,15 @@ a {
   flex-direction: column;
   gap: 1rem;
   max-width: 600px;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .hero-content,
+  .hero-visual {
+    max-width: 100%;
+    width: 100%;
+  }
 }
 
 .hero-ctas {
